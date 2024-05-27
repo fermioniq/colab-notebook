@@ -2,4 +2,4 @@
 
 This repository hosts the [Google Colab Notebook](https://colab.research.google.com/github/fermioniq/colab-notebook/blob/main/tutorial.ipynb) with tutorials and use cases for the quantum circuit emulator Ava.
 
-For more info, see the [documentation](docs.fermioniq.com) or the [company website](fermioniq.com)
+For more info, see the [documentation](https://docs.fermioniq.com/) or the [company website](https://www.fermioniq.com/)
